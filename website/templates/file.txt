@@ -1,13 +1,11 @@
 hello world abc
 line 2 -feature
 linee5
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 linee feature 
-=======
+
 linee feature 
 line at main
-<<<<<<< Updated upstream
+
 hjhh
 >>>>>>> Stashed changes
 =======
