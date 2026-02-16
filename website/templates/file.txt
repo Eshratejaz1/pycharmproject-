@@ -6,5 +6,9 @@ linee feature
 =======
 linee feature 
 line at main
+<<<<<<< Updated upstream
+hjhh
+>>>>>>> Stashed changes
+=======
 hjhh
 >>>>>>> Stashed changes
